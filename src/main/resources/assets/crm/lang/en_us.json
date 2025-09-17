@@ -1,0 +1,13 @@
+{
+  "itemGroup.crm": "Example Mod Tab",
+  "block.crm.example_block": "Example Block",
+  "item.crm.example_item": "Example Item",
+
+  "crm.configuration.title": "Compact Machine Rooms Configs",
+  "crm.configuration.section.crm.common.toml": "Compact Machine Rooms Configs",
+  "crm.configuration.section.crm.common.toml.title": "Compact Machine Rooms Configs",
+  "crm.configuration.items": "Item List",
+  "crm.configuration.logDirtBlock": "Log Dirt Block",
+  "crm.configuration.magicNumberIntroduction": "Magic Number Text",
+  "crm.configuration.magicNumber": "Magic Number"
+}
